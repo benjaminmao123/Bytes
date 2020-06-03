@@ -2,7 +2,7 @@
 
 Bytes is a first person shooter where the player shoots fruit out of a cannon.
 
-This game was made as part of a 10 week CS179 senior design project.
+This game was made as part of a 10 week CS179 senior design project with 2 others.
 
 We tried to accurately portray the SDLC and follow Agile by implementing Scrum. 
 
